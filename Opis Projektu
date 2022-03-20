@@ -1,0 +1,20 @@
+Skład grupy: Sebastian Mika i Jonatan Ulatowski
+	
+Temat/Tytuł projektu: Gra Rogue-like
+	
+Rodzaj aplikacji: desktopowa
+
+Języki programowania i użyte technologie: C#/GDScript
+	
+Krótki opis funkcjonalności: Gra Rogue-like z podstowymi funkcjonalnościami, pewną ilością historii, w estetyce pixelartu.
+Podstawowe Funkcje:
+	• Poruszanie postaci
+	• Atakowanie i interakcja z obiektami
+	• Podstawowy ekwipunek (pewnego rodzaju baza danych)
+	• Umiejętności dla przeciwników i postaci
+	• Przeciwnicy którzy dzięki pathfindingowi będą w stanie poruszać się po mapie
+	• Interakcje  przeciwników (Atak, śmierć itp.)
+	• System Oświetlenia
+	• Pathfinding dla przeciwników
+	• Proceduralnie generowana mapa
+	
